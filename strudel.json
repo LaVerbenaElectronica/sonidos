@@ -1,4 +1,4 @@
 {
-  "_base": "https://github.com/LaVerbenaElectronica/sonidos/tree/main",
-  "bird": "bird1.wav"
+  "_base": " https://raw.githubusercontent.com/LaVerbenaElectronica/sonidos/main",
+  "bird": ["bird1.wav"]
 }
